@@ -5,9 +5,9 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="20714879488910"
+    timestamp="93554246903936"
     token="-5608146559190029506"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -22,15 +22,30 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="D:\nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
     <build
-        timestamp="20626493252257"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="92889029232997"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="D:\nanodegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="20714879488910"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="93332038264311"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="93554246903936"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>
