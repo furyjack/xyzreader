@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="33763540300568"
+    timestamp="34196761277720"
     token="-5608146559190029506"
     verifier="COMPATIBLE" >
 
@@ -34,7 +34,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="33763540300568"
+        timestamp="34196761277720"
         verifier="COMPATIBLE" >
         <artifact
             location="D:\nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
