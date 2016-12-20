@@ -22,7 +22,7 @@
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="@dimen/detail_card_top_margin"
                     android:scaleType="centerCrop"
                      />
 
@@ -111,8 +111,8 @@
         app:fabSize="normal"
         app:rippleColor="@color/ltgray"
         android:id="@+id/share_fab"
-        android:elevation="4dp"
-        app:pressedTranslationZ="8dp"
+        android:elevation="6dp"
+        app:pressedTranslationZ="6dp"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_gravity="bottom|end"

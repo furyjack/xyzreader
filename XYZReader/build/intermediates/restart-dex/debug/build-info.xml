@@ -5,34 +5,27 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="34196761277720"
+    timestamp="1300307642412"
     token="-5608146559190029506"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="967" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="156" />
     <task
         name="verifier"
-        duration="0" />
+        duration="16" />
 
     <artifact
-        location="D:\nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="D:\nanodegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="33605875934563"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\nanodegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-            type="MAIN" />
-    </build>
     <build
         timestamp="34196761277720"
         verifier="COMPATIBLE" >
